@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: AzurePipeline
+pool: "Azure Pipelines"
   
 
 steps:
